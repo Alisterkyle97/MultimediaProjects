@@ -185,6 +185,8 @@ header.masthead .overlay {
   width: 100%;
   background-color: #212529;
   opacity: 0.5;
+  box-shadow: 3px 20px 10px -15px #838282
+
 }
 
 header.masthead .page-heading,
@@ -192,6 +194,7 @@ header.masthead .post-heading,
 header.masthead .site-heading {
   padding: 200px 0 150px;
   color: white;
+  
 }
 
 @media only screen and (min-width: 768px) {
@@ -238,6 +241,7 @@ header.masthead .post-heading .meta,
 header.masthead .post-heading .subheading {
   line-height: 1.1;
   display: block;
+  
 }
 
 header.masthead .post-heading .subheading {
